@@ -12,7 +12,7 @@ I'm Tushar Athare, a software engineer from Pune, India, with over 5 years of ex
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharAthare&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Quote of the day:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-readme-quotes-bay.vercel.app/quote?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TusharAthare&icon=0&color=0)](https://visitcount.itsvg.in)
